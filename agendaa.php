@@ -28,27 +28,21 @@ define('APP_IS_ACTIVE', true);
 
 define('BASE_PATH', __DIR__);
 
+/**
+ *
+ */
+function agendaaa_register_post_type() {}
 
 /**
  *
  */
-function agendaaa_register_post_type()
-{
-
-}
+function agendaaa_enqueue_scripts() {}
 
 /**
  *
  */
-function agendaaa_enqueue_scripts()
-{
-
-}
-
+function agendaaa_enqueue_admin_scripts() {}
 /**
  *
  */
-function agendaaa_enqueue_admin_scripts()
-{
-
-}
+function agendaaa_register_meta_boxes() {}
